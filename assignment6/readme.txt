@@ -1,0 +1,1 @@
+Run matrix_gen script at the very beginning to generate all relevant matrices.
